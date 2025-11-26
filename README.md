@@ -109,7 +109,7 @@ puede hallar su ip con el comando ipconfig en el cmd
 
 eso seria todo para que la app pueda funcionar correctamente
 
-## 📱 Pruebas de la App Funcionando
+##  Pruebas de la App Funcionando
 
 ![Pantalla principal](doc/img/cap1.png)
 ![Listado de personas](doc/img/cap2.png)
@@ -117,6 +117,7 @@ eso seria todo para que la app pueda funcionar correctamente
 ![editar persona](doc/img/cap4.png)
 ![eliminar persona](doc/img/cap5.png)
 ![listar persona](doc/img/cap6.png)
+
 
 
 
