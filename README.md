@@ -110,3 +110,4 @@ puede hallar su ip con el comando ipconfig en el cmd
 eso seria todo para que la app pueda funcionar correctamente
 
 
+
