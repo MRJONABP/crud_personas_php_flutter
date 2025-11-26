@@ -1,4 +1,4 @@
-# 📌 CRUD Personas – Flutter + PHP + MySQL
+# CRUD Personas – Flutter + PHP + MySQL
 
 Este proyecto es un sistema Full Stack compuesto por:
 
@@ -10,7 +10,7 @@ Permite crear, listar, editar y eliminar personas desde Flutter comunicándose c
 
 ---
 
-# 🗄️ 1. Base de Datos
+# 1. Base de Datos
 
 El archivo SQL para crear la base de datos está en:
 
@@ -37,7 +37,7 @@ Archivo:
 
 Modificar los siguientes datos según la PC de ejecución:
 
-```php
+<?php
 private $username = "root";
 private $password = "AQUI_TU_CONTRASEÑA";
 
@@ -105,5 +105,6 @@ static const String baseUrl = "http://192.168.1.2/crud_persona_api/public";
 puede hallar su ip con el comando ipconfig en el cmd
 
 ***Si no se cambia la IP, la app NO podrá conectarse al backend.***
+
 
 eso seria todo para que la app pueda funcionar correctamente
