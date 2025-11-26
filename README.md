@@ -31,7 +31,7 @@ sexo VARCHAR(10)
 
 ---
 
-# ⚙️ 2. Configuración de la Base de Datos
+# 2. Configuración de la Base de Datos
 
 Archivo:
 
@@ -43,7 +43,7 @@ private $password = "AQUI_TU_CONTRASEÑA";
 "
 -------------------------------
 
-Rutas del Backend (API REST)
+# 3. Rutas del Backend (API REST)
 
 crud_persona_api/routes/personas.php
 
@@ -64,7 +64,7 @@ http://192.168.X.X/crud_persona_api/personas
 
 ------------
 
-Controller y Modelo
+# 4. Controller y Modelo
 
 PersonaController.php
 
@@ -90,7 +90,7 @@ Listar
 
 -----------
 
-Flutter – Configuración de la API
+# 5. Flutter – Configuración de la API
 
 El archivo que conecta Flutter con PHP es:
 
@@ -108,4 +108,5 @@ puede hallar su ip con el comando ipconfig en el cmd
 
 
 eso seria todo para que la app pueda funcionar correctamente
+
 
