@@ -111,12 +111,13 @@ eso seria todo para que la app pueda funcionar correctamente
 
 ## 📱 Pruebas de la App Funcionando
 
-![Pantalla principal](docs/img/cap1.png)
-![Listado de personas](docs/img/cap2.png)
-![Registrar persona](docs/img/cap3.png)
-![editar persona](docs/img/cap4.png)
-![eliminar persona](docs/img/cap3.png)
-![listar persona](docs/img/cap3.png)
+![Pantalla principal](doc/img/cap1.png)
+![Listado de personas](doc/img/cap2.png)
+![Registrar persona](doc/img/cap3.png)
+![editar persona](doc/img/cap4.png)
+![eliminar persona](doc/img/cap5.png)
+![listar persona](doc/img/cap6.png)
+
 
 
 
