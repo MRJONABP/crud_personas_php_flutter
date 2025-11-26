@@ -37,10 +37,10 @@ Archivo:
 
 Modificar los siguientes datos según la PC de ejecución:
 
-<?php
+"<?php
 private $username = "root";
 private $password = "AQUI_TU_CONTRASEÑA";
-
+"
 -------------------------------
 
 Rutas del Backend (API REST)
@@ -108,3 +108,4 @@ puede hallar su ip con el comando ipconfig en el cmd
 
 
 eso seria todo para que la app pueda funcionar correctamente
+
